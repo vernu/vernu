@@ -1,8 +1,7 @@
 ### 👋 Hi, I’m Israel Abebe
 
-- I’m a Full-stack developer
-- Well experienced in React, NodeJs and Flutter Frameworks
-- Currently working at [1888EC](https://1888.studio/).
+- Full-stack Software Developer with 3+ years of experience in developing web and mobile applications using modern technologies.
+- Currently working as a Software Engineer at [John Snow, Inc](https://jsi.com).
 - You can reach out to me via : [LinkedIn ](https://www.linkedin.com/in/israelabebe/) or vernu1997@gmail.com
 
 **Technologies I work with**
